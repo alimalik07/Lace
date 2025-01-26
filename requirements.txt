@@ -1,0 +1,7 @@
+plotly
+pandas
+folium
+streamlit
+scikit-learn
+requests
+openpyxl
